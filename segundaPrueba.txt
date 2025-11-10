@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Este archivo ha sido modificado por Lucía.
+=======
+Esto lo he escrito yo Juan.
+>>>>>>> 724cbef4a007987ad33db566710e0a9406f98aa4
